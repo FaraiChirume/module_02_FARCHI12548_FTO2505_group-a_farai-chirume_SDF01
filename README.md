@@ -1,8 +1,8 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm FARAI CHIRUME 
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner To Intermidiate Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
@@ -12,6 +12,7 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
+- 🔥 I Love Sports 
 
 ---
 
@@ -48,9 +49,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** 
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 **Description:** I made a working record keeeping system in High School using (VB) Visual Basic.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
 
@@ -66,15 +67,14 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FaraiChirume)  
+📧 Email: [arthurc00000@gmail.com](mailto:arthurc00000@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+- I'm Bilingual
 
 ---
 
